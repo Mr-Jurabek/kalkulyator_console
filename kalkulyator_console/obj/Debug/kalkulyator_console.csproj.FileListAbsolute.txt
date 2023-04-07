@@ -1,0 +1,8 @@
+E:\kalkulyator_console\kalkulyator_console\bin\Debug\kalkulyator_console.exe.config
+E:\kalkulyator_console\kalkulyator_console\bin\Debug\kalkulyator_console.exe
+E:\kalkulyator_console\kalkulyator_console\bin\Debug\kalkulyator_console.pdb
+E:\kalkulyator_console\kalkulyator_console\obj\Debug\kalkulyator_console.csproj.AssemblyReference.cache
+E:\kalkulyator_console\kalkulyator_console\obj\Debug\kalkulyator_console.csproj.SuggestedBindingRedirects.cache
+E:\kalkulyator_console\kalkulyator_console\obj\Debug\kalkulyator_console.csproj.CoreCompileInputs.cache
+E:\kalkulyator_console\kalkulyator_console\obj\Debug\kalkulyator_console.exe
+E:\kalkulyator_console\kalkulyator_console\obj\Debug\kalkulyator_console.pdb
